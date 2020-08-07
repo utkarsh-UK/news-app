@@ -1,0 +1,24 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Widget.BottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="android:state_checked">@color/colorPrimary</item>
+    </style>
+
+    <style name="Widget.BottomNavigationView.ItemTextAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:textStyle">bold</item>
+        <item name="font">@font/notosans_bold</item>
+    </style>
+
+    <style name="Widget.MaterialComponents.Chip.Choice.CustomChip" parent="Widget.MaterialComponents.Chip.Choice">
+        <item name="chipBackgroundColor">@drawable/news_countries_selection</item>
+        <item name="android:textColor"> @drawable/chip_text_selection</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

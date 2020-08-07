@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Real News Daily</string>
+    <string name="app_logo_content_desc">App Logo</string>
+    <string name="bottom_menu_home"><b>Home</b></string>
+    <string name="bottom_menu_latest"><b>Latest</b></string>
+    <string name="bottom_menu_search"><b>Search</b></string>
+    <string name="heading_top_news">Top News</string>
+    <string name="title_breaking_news">Breaking News</string>
+    <string name="breaking_news_image_description">Top Headline of the day</string>
+    <string name="article_image_description">Article Image</string>
+    <string name="hint_search_news"><font size="16"><i>Search for topics, headlines</i></font></string>
+    <string name="search_result_count">%d articles found</string>
+    <string name="country_aus">Aus</string>
+    <string name="country_usa">USA</string>
+    <string name="country_india">India</string>
+</resources>
